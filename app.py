@@ -76,4 +76,4 @@ else:
     st.info("Upload an audio file, then click Transcribe audio to begin.")
 
 st.divider()
-st.caption("Deep learning demo • Whisper speech recognition • Streamlit")
+st.caption("Whisper speech recognition • Streamlit")
