@@ -1,3 +1,23 @@
+
+
+## 🧠 TRANSFORMER — Deep Learning Application
+
+This project uses the Whisper Transformer deep learning model
+to convert spoken audio into written text.
+
+### 🚀 Launch TRANSFORMER Application
+
+[🎤CLICK HERE TO LAUNCH TRANSFORMER]([https:(https://aispeechtotext-nb2hfcqjxw2xcv7iykubty.streamlit.app/))
+
+### How to Use
+1. Click the TRANSFORMER application link.
+2. Upload an audio recording (MP3, WAV or M4A).
+3. Click "Transcribe audio".
+4. View and download the transcription.
+
+
+
+
 # 🎙️ AI Speech-to-Text — Deep Learning Streamlit App
 
 A web application that turns audio recordings into editable text using a pretrained Whisper speech recognition model via [faster-whisper](https://github.com/SYSTRAN/faster-whisper).
