@@ -7,7 +7,9 @@ to convert spoken audio into written text.
 
 ### 🚀 Launch TRANSFORMER Application
 
-[🎤CLICK HERE TO LAUNCH TRANSFORMER]([https:(https://aispeechtotext-nb2hfcqjxw2xcv7iykubty.streamlit.app/))
+## 🧠 TRANSFORMER
+
+[🚀 CLICK HERE TO LAUNCH TRANSFORMER](https://aispeechtotext-nb2hfcqjxw2xcv7iykubty.streamlit.app/)
 
 ### How to Use
 1. Click the TRANSFORMER application link.
